@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amey</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameykuradeak&label=Profile%20views&color=0e75b6&style=flat" alt="ameykuradeak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeyKuradeAK&label=Profile%20views&color=0e75b6&style=flat" alt="ameykuradeak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameykuradeak" alt="ameykuradeak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmeyKuradeAK" alt="ameykuradeak" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kuradeamey" target="blank"><img src="https://img.shields.io/twitter/follow/kuradeamey?logo=twitter&style=for-the-badge" alt="kuradeamey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kuradeamey" target="blank"><img src="https://img.shields.io/twitter/follow/KuradeAmey?logo=twitter&style=for-the-badge" alt="kuradeamey" /></a> </p>
 
 - 🔭 I’m currently working on [Open-Source](https://github.com/AmeyKuradeAK/AKOSource.git)
 
@@ -32,9 +32,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ameykuradeak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ameykuradeak" height="30" width="40" /></a>
-<a href="https://twitter.com/kuradeamey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuradeamey" height="30" width="40" /></a>
+<a href="https://twitter.com/KuradeAmey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuradeamey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ameykuradeak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameykuradeak" height="30" width="40" /></a>
-<a href="https://fb.com/ameykuradeak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ameykuradeak" height="30" width="40" /></a>
+<a href="https://fb.com/AmeyKuradeAK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ameykuradeak" height="30" width="40" /></a>
 <a href="https://instagram.com/__s_a_g_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__s_a_g_e" height="30" width="40" /></a>
 </p>
 
