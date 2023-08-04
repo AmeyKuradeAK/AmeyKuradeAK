@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Open-Source](https://github.com/AmeyKuradeAK/AKOSource.git)
 
-- 🌱 I’m currently learning **React-JS, JS, C, Mojo, C++, Python, etc**
+- 🌱 I’m currently learning **JAVA**
 
-- 👯 I’m looking to collaborate on [AKOSource](https://github.com/AmeyKuradeAK/AKOSource.git)
+- 👯 I’m looking to collaborate With [Codec-Headec](https://github.com/Codec-Headec)
 
-- 🤝 I’m looking for help with [N/A](N/A)
+- 🤝 I’m looking for help with [Codec-Headec](https://github.com/Codec-Headec)
 
-- 👨‍💻 All of my projects are available at [N/A](N/A)
+- 👨‍💻 All of my projects are available at [My Repositries](https://github.com/AmeyKuradeAK?tab=repositories)
 
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly write articles on [JAVA](N/A)
 
-- 💬 Ask me about **HTML, JS, React**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **ameykurade60@gmail.com**
 
