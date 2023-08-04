@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kuradeamey" target="blank"><img src="https://img.shields.io/twitter/follow/KuradeAmey?logo=twitter&style=for-the-badge" alt="kuradeamey" /></a> </p>
 
-- 🔭 I’m currently working on [Open-Source](https://github.com/AmeyKuradeAK/AKOSource.git)
+- 🔭 I’m currently working on [Projects](https://github.com/Codec-Headec?tab=repositories)
 
 - 🌱 I’m currently learning **JAVA**
 
