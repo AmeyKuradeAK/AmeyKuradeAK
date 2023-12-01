@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kuradeamey" target="blank"><img src="https://img.shields.io/twitter/follow/KuradeAmey?logo=twitter&style=for-the-badge" alt="kuradeamey" /></a> </p>
 
-- 🔭 I’m currently working on [Projects](https://github.com/Codec-Headec?tab=repositories)
+- 🔭 I’m currently working on [Project-C](https://github.com/AmeyKuradeAK/Project-C)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate With [Codec-Headec](https://github.com/Codec-Headec)
 
@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [My Repositries](https://github.com/AmeyKuradeAK?tab=repositories)
 
-- 📝 I regularly write articles on [JAVA](N/A)
+- 📝 I regularly write articles on [Flutter](N/A)
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA & Flutter**
 
-- 📫 How to reach me **ameykurade60@gmail.com**
+- 📫 How to reach me [G-Mail](ameykurade60@gmail.com)
 
-- 📄 Know about my experiences [N/A](N/A)
+- 📄 Know about my experiences [Flutter Developer](https://flutter.dev/))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
