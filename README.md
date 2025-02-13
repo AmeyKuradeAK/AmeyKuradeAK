@@ -1,18 +1,19 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
 <p align="left">My name is Amey Vijay Kurade.<br> I'm a CSE Student, a developer. <br>I am from Kolhapur, Maharashtra.</p>
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="left">About me</h2>
 
-###
-
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python, JavaScript (React)<br>🎯 Goals: Build own Tech. Startup.<br>🎲 Fun fact: ...</p>
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="left">Technology Stacks</h2>
 
@@ -44,7 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="left">Profile</h2>
 
@@ -58,11 +61,10 @@
 
 <img src="https://raw.githubusercontent.com/AmeyKuradeAK/AmeyKuradeAK/output/snake.svg" alt="Snake animation" />
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=AmeyKuradeAK&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
@@ -75,7 +77,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmeyKuradeAK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="left">Socials</h2>
 
@@ -88,7 +92,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="left">Donate</h2>
 
@@ -98,4 +104,6 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
