@@ -15,6 +15,11 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
+# My Fav Command
+```bash
+yarn create @quick-start/electron my-app --template vue
+```
+
 <h2 align="left">Technology Stacks</h2>
 
 ###
