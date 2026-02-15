@@ -1,114 +1,67 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Ammey Kuraaday
 
+> **Building the future of human-AI interaction through emotional intelligence.**
 
-<p align="left">My name is Amey Vijay Kurade.<br> I'm a CSE Student, a developer. <br>I am from Kolhapur, Maharashtra.</p>
+---
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+## 🚀 Current Mission
 
-<h2 align="left">About me</h2>
+I'm developing **Voice AI with Emotional Intelligence** — a novel approach to making AI understand and respond to human emotion with unprecedented accuracy. This isn't about detecting tone; it's about genuine emotional comprehension at scale.
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python, JavaScript (React)<br>🎯 Goals: Build own Tech. Startup.<br>🎲 Fun fact: ...</p>
+**Status:** Alpha | **Accuracy:** 95% | **Architecture:** Proprietary
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+The technology behind this is still under wraps, but the implications are transformative. We're approaching a threshold where machines won't just hear—they'll *understand*.
 
-# My Fav Command
-```bash
-yarn create @quick-start/electron my-app --template vue
+---
+
+## 🛠️ What I Build
+
+**Systems that think. Infrastructure that scales. AI that feels.**
+
+- **Emotional AI Architecture** — Novel detection methods + proprietary neural frameworks
+- **Infrastructure at Scale** — Golang, Node.js, Python, PyTorch, AWS
+- **Full-Stack Systems Engineering** — From edge to cloud, from prototype to production
+
+### Notable Work
+
+**NTRN Project** — Legacy system powering cross-platform transformation (Next.js → React Native/Flutter). Still in active use by teams relying on seamless framework conversion.
+
+**OneBudd** — My startup exploring emotional AI applications. Turning research into products that matter.
+[Visit OneBudd →](https://onebudd.com/)
+
+---
+
+## 💡 Philosophy
+
+I believe the next frontier of AI isn't raw capability—it's *empathy at scale*. We're moving beyond chatbots that sound smart to systems that actually comprehend the human element. That's where the real impact happens.
+
+---
+
+## 🔗 Connect
+
+- **LinkedIn:** [linkedin.com/in/ameykuradeak](https://www.linkedin.com/in/ameykuradeak/)
+- **OneBudd:** [onebudd.com](https://onebudd.com/)
+
+---
+
+## 📊 By The Numbers
+
+```
+95%      Emotional Recognition Accuracy
+∞        Scale Potential  
+1        Mission: Change How AI Understands Humans
 ```
 
-<h2 align="left">Technology Stacks</h2>
+---
 
-###
+## 🌌 Coming Soon
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
+The emotional AI landscape is shifting. When we're ready to share what's possible, you'll be among the first to know.
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+*Stay tuned.*
 
-<h2 align="left">Profile</h2>
+---
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AmeyKuradeAK/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AmeyKuradeAK/AmeyKuradeAK/output/snake.svg" alt="Snake animation" />
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-
-###
-
-<h2 align="left">Statistics</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmeyKuradeAK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmeyKuradeAK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-<h2 align="left">Socials</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
-<h2 align="left">Donate</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <i>"The most powerful technology is the one that understands you."</i>
 </p>
