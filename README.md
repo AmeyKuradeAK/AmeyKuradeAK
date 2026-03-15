@@ -1,67 +1,69 @@
 # Ammey Kuraaday
 
-> **Building the future of human-AI interaction through emotional intelligence.**
+> Building real infrastructure for AI systems that actually work in production.
 
 ---
 
-## 🚀 Current Mission
+## What I'm Working On
 
-I'm developing **Voice AI with Emotional Intelligence** — a novel approach to making AI understand and respond to human emotion with unprecedented accuracy. This isn't about detecting tone; it's about genuine emotional comprehension at scale.
+**Voice AI + Emotional Intelligence** — not sentiment analysis, 
+not tone detection. A 128-dimensional continuous emotion embedding 
+space that maps emotional states geometrically. Published on Zenodo.
+[Read the paper →](YOUR_ZENODO_DOI_LINK)
 
-**Status:** Alpha | **Accuracy:** 95% | **Architecture:** Proprietary
-
-The technology behind this is still under wraps, but the implications are transformative. We're approaching a threshold where machines won't just hear—they'll *understand*.
-
----
-
-## 🛠️ What I Build
-
-**Systems that think. Infrastructure that scales. AI that feels.**
-
-- **Emotional AI Architecture** — Novel detection methods + proprietary neural frameworks
-- **Infrastructure at Scale** — Golang, Node.js, Python, PyTorch, AWS
-- **Full-Stack Systems Engineering** — From edge to cloud, from prototype to production
-
-### Notable Work
-
-**NTRN Project** — Legacy system powering cross-platform transformation (Next.js → React Native/Flutter). Still in active use by teams relying on seamless framework conversion.
-
-**OneBudd** — My startup exploring emotional AI applications. Turning research into products that matter.
-[Visit OneBudd →](https://onebudd.com/)
+Currently building **partnership development tooling** for B2B teams 
+— automating the part of outreach that actually gets meetings, 
+the part after Clay and before the call.
 
 ---
 
-## 💡 Philosophy
+## What I've Shipped
 
-I believe the next frontier of AI isn't raw capability—it's *empathy at scale*. We're moving beyond chatbots that sound smart to systems that actually comprehend the human element. That's where the real impact happens.
+**OneBudd** — Real-time voice AI for BFSI compliance monitoring.
+Sub-300ms whisper coaching. STT+LLM+TTS pipeline in production.
+Three-layer compliance detection: regex → fine-tuned DeBERTa-v3 → 
+LLM verification.
+[onebudd.com](https://onebudd.com)
 
----
+**PartPilot** — AI-powered BOM-to-PO hardware sourcing. 
+Node/TypeScript + Go two-service architecture.
 
-## 🔗 Connect
+**MotionOS** — Persistent memory infrastructure for AI agents.
 
-- **LinkedIn:** [linkedin.com/in/ameykuradeak](https://www.linkedin.com/in/ameykuradeak/)
-- **OneBudd:** [onebudd.com](https://onebudd.com/)
-
----
-
-## 📊 By The Numbers
-
-```
-95%      Emotional Recognition Accuracy
-∞        Scale Potential  
-1        Mission: Change How AI Understands Humans
-```
+**NTRN** — Legacy cross-platform conversion system. 
+Next.js → React Native/Flutter. Still in active use.
 
 ---
 
-## 🌌 Coming Soon
+## Stack
 
-The emotional AI landscape is shifting. When we're ready to share what's possible, you'll be among the first to know.
-
-*Stay tuned.*
+Go, Node.js, TypeScript, Python, PyTorch  
+AWS, Playwright, HiFi-GAN, FastSpeech2  
+DeBERTa-v3, Whisper, WebSockets, PulseAudio
 
 ---
 
-<p align="center">
-  <i>"The most powerful technology is the one that understands you."</i>
-</p>
+## Research
+
+**Emotion Intelligence in Voice AI Systems**  
+128-dimensional continuous emotion embedding engine.  
+Trained on ESD dataset. FastSpeech2-style decoder + HiFi-GAN vocoder.  
+Target inference latency: <400ms.  
+DOI: [https://doi.org/10.5281/zenodo.19022487] — Published on Zenodo
+
+---
+
+## How I Work
+
+I build and sell. Not one or the other.  
+18 months doing GTM, cold outreach, partnership development,  
+and compliance conversations in BFSI — while writing the code.  
+That combination is rare and I know it.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/ameykuradeak) · 
+[Instagram](https://www.instagram.com/ammey.dev) · 
+ameykurade60@gmail.com
