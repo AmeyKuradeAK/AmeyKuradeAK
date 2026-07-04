@@ -21,7 +21,7 @@ the part after Clay and before the call.
 
 **OneBudd** — Real-time voice AI for BFSI compliance monitoring.
 Sub-300ms whisper coaching. STT+LLM+TTS pipeline in production.
-Three-layer compliance detection: regex → fine-tuned DeBERTa-v3 → 
+Three-layer compliance detection: regex → fine-tuned CoNFIDENTIAl-v3 → 
 LLM verification.
 [onebudd.com](https://onebudd.com)
 
